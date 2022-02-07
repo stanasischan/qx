@@ -1,0 +1,11 @@
+# > IQIYI
+USER-AGENT,*QIYI*,Inbound
+USER-AGENT,iQiYi*,Inbound
+DOMAIN-SUFFIX,iqiyi.com,Inbound
+DOMAIN-SUFFIX,iqiyipic.com,Inbound
+DOMAIN-SUFFIX,iq.com,Inbound
+DOMAIN-SUFFIX,qy.net,Inbound
+DOMAIN-SUFFIX,gitv.tv,Inbound
+DOMAIN-SUFFIX,71.am,Inbound
+DOMAIN-KEYWORD,qiyi,Inbound
+DOMAIN,cache.video.iqiyi.com,Inbound
