@@ -1,0 +1,36 @@
+# > Apple Books
+USER-AGENT,Books*,Apple
+DOMAIN-SUFFIX,books.apple.com,Apple
+DOMAIN,books.itunes.apple.com,Apple
+DOMAIN,bookkeeper.itunes.apple.com,Apple
+
+# > Apple News
+DOMAIN,gspe1-ssl.ls.apple.com,Apple // 必要，但会导致「地图」使用「TOMTOM」版本数据
+PROCESS-NAME,News,Apple
+USER-AGENT,AppleNews*,Apple
+USER-AGENT,News*,Apple // 「今日头条」亦使用此，故不启用
+USER-AGENT,com.apple.news*,Apple
+DOMAIN-SUFFIX,apple.news,Apple
+DOMAIN,news-client.apple.com,Apple
+DOMAIN,news-edge.apple.com,Apple
+DOMAIN,news-events.apple.com,Apple
+DOMAIN,apple.comscoreresearch.com,Apple
+
+# > Apple TV
+PROCESS-NAME,TV,Apple
+USER-AGENT,AppleTV*,Apple
+USER-AGENT,com.apple.tv*,Apple
+DOMAIN-SUFFIX,tv.apple.com,Apple
+DOMAIN,hls.itunes.apple.com,Apple // Trailers
+DOMAIN,hls-amt.itunes.apple.com,Apple // Trailers
+DOMAIN,uts-api.itunes.apple.com,Apple
+DOMAIN,play-edge.itunes.apple.com,Apple // Unblock Region
+DOMAIN,np-edge.itunes.apple.com,Apple
+
+# > TestFlight
+DOMAIN,beta.apple.com,Apple
+DOMAIN,testflight.apple.com,Apple
+
+# > Podcasts
+DOMAIN,amp-api.podcasts.apple.com,Apple
+DOMAIN,bookkeeper.itunes.apple.com,Apple
