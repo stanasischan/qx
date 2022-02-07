@@ -1,0 +1,16 @@
+# > Disney+
+USER-AGENT,Disney*,DisneyPlus
+DOMAIN-SUFFIX,disneyplus.com,DisneyPlus
+DOMAIN-SUFFIX,disney-plus.net,DisneyPlus
+DOMAIN-SUFFIX,disneystreaming.com,DisneyPlus
+DOMAIN-SUFFIX,dssott.com,DisneyPlus
+// DOMAIN-SUFFIX,bamgrid.com,DisneyPlus
+DOMAIN,playback-certs.bamgrid.com,DisneyPlus
+DOMAIN,disney.api.edge.bamgrid.com,DisneyPlus
+DOMAIN,disney.connections.edge.bamgrid.com,DisneyPlus
+DOMAIN,disney.content.edge.bamgrid.com,DisneyPlus
+DOMAIN,disney.playback.edge.bamgrid.com,DisneyPlus
+DOMAIN,cdn.registerdisney.go.com,DisneyPlus
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,DisneyPlus
+DOMAIN,global.edge.bamgrid.com,DisneyPlus
+DOMAIN,bam-sdk-configs.bamgrid.com,DisneyPlus
