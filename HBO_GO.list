@@ -1,0 +1,12 @@
+# > HBO GO Asia
+// USER-AGENT,HBO%20GO%20PROD*,HBOGO
+// DOMAIN-KEYWORD,hboasia,HBOGO
+DOMAIN-KEYWORD,hbogoasia,HBOGO
+DOMAIN-SUFFIX,hboasia.com,HBOGO
+DOMAIN-SUFFIX,hbogoasia.com,HBOGO
+DOMAIN,hbolb.onwardsmg.com,HBOGO
+DOMAIN,hbounify-prod.evergent.com,HBOGO
+// DOMAIN,hbogoprod-vod.akamaized.net,HBOGO
+// DOMAIN,hboasialive.akamaized.net,HBOGO
+// DOMAIN,bcbolthboa-a.akamaihd.net,HBOGO
+DOMAIN,dai3fd1oh325y.cloudfront.net,HBOGO
